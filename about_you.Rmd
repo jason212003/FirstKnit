@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Jason Leon"
 output: 
   html_document:
     number_sections: true
@@ -16,7 +16,9 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
-### my answer     
+### my answer
+Eastside high school is the high school i went to and i graduate from their in 2022. for me english is easier class to take then a math class because i prefer writing then doing math work. The subject i did best in was english because writing was easy for me to do.
+
   
 
      
